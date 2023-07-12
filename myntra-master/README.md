@@ -37,7 +37,7 @@ filter items option in this option we have names of brands, prices, and sorting.
 
 ![image](https://user-images.githubusercontent.com/77974484/161418616-0103de9b-804e-403e-b59b-16bd4f012dc8.png)
 
-![image](https://user-images.githubusercontent.com/77974484/161418629-2f55ef0c-c323-4bd0-86ec-2d04092e4af0.png)
+
 
 **Outer and inner home living page.**
 
@@ -47,7 +47,7 @@ filter items option in this option we have names of brands, prices, and sorting.
 
 ![image](https://user-images.githubusercontent.com/77974484/161418666-9f75ebdd-a6e4-470e-8190-8699b6dd64b4.png)
 
-![image](https://user-images.githubusercontent.com/77974484/161418677-6aa9fb78-083b-4986-b774-5b74b44b157f.png)
+
 
 **Login .**
 
